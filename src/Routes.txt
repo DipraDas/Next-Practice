@@ -1,0 +1,13 @@
+1.  Normal Routing
+src-> articles-> article.js
+localhost:3000/articles/article -> right
+
+jodi src-> articles-> article.js er moddhe articles kei access korte hoi,
+src-> articles-> index.js lagbe
+
+nested route dorkar hole, same index file create kore jabe. or subfolder thekei access kora jabe.
+
+2. Dynamic Routing
+src-> products-> [productId].js
+localhost:3000/products/1 -> right
+
