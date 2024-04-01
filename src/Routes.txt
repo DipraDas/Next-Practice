@@ -11,3 +11,4 @@ nested route dorkar hole, same index file create kore jabe. or subfolder thekei 
 src-> products-> [productId].js
 localhost:3000/products/1 -> right
 
+3. For cache for or filtering there may some data in the lins so [...slug].js file needed.
